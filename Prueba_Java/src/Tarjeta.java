@@ -1,6 +1,6 @@
 public class Tarjeta {
 
-    private double saldo = 3200;
+    private double saldo = 3800;
 
     public Tarjeta() {
     }
